@@ -1,2 +1,5 @@
-# Web_Django
-Resumo dos meus estudos em Django utilizando Python3 
+# Web Django
+***
+     Por mais programação
+***
+>> Resumo dos meus estudos em Django utilizando Python3 
