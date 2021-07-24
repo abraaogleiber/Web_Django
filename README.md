@@ -2,4 +2,4 @@
 ***
      Por mais programação
 ***
->> Resumo dos meus estudos em Django utilizando Python3 
+>> Resumo dos meus estudos em desenvolvimento web utilizando a framework Django. 
